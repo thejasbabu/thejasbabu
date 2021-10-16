@@ -1,4 +1,4 @@
-<style type="text/css">
+<!-- <style type="text/css">
 body {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
 }
@@ -13,18 +13,16 @@ body {
   clear: both;
   display: table;
 }
-</style>
+</style> -->
 
 <p align="center">
   <img src="https://github.com/thejasbabu/thejasbabu/raw/main/assets/github.gif" alt="Hi, I'm Thejas 👋  Welcome to my github profile 🚀">
 </p>
 
----
 
 <h2> 👾 About me </h2>
-
-<h3> 6+ years professional experience as software developer, primarily worked on backend. Polyglot developer having built vast range of applications on technologies like Big data, Distributed systems and Cloud computing. Current honing my programming skills using Rust.
-</h3>
+<h4> 6+ years professional experience as software developer, primarily worked on backend. Polyglot developer having built vast range of applications on technologies like Big data, Distributed systems and Cloud computing. Currently honing my programming skills using Rust.
+</h4>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/iamthejasbabu/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
@@ -34,10 +32,8 @@ body {
 <a href="mailto:thejasb99@gmail.com?subject=Hey"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
 </p>
 
----
-
+</br>
 <h2> 📝  Blogs & Talks </h2> 
-
 
 <h3>Blog post</h3>
 <ul>
@@ -56,117 +52,52 @@ body {
 <h3>Talks</h3>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=AMSyjYNqYns"><b>Apache Flink on Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"" width="20" alt="flink" /></b></a><br/><i>Real time processing of load balancer logs using Flink deployed on Kubernetes</i><br>
-  <img src="https://github.com/thejasbabu/thejasbabu/raw/main/assets/flink_talk.png" width="100" height="100" alt="Talk snapshot" />
+  <img src="https://github.com/thejasbabu/thejasbabu/raw/main/assets/flink_talk.png" width="400" height="250" alt="Talk snapshot" />
   </li>
 </ul>
 
----
-
+</br>
 <h2> 🧰  Toolkit </h2> 
 
 <h3><b>Programming languages</b></h3>
 <div class="row">
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" alt="golang"/>
-        <figcaption>Golang</figcaption>
-  </div>
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" alt="javascript"/>
-        <figcaption>Javascript</figcaption>
-  </div>
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" width="50" alt="scala"/>
-        <figcaption>Scala</figcaption>
-  </div> 
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" alt="java"/>
-        <figcaption>Java</figcaption>
-  </div>    
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" alt="python"/>
-        <figcaption>Python</figcaption>
-  </div>  
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" alt="rust"/>
-        <figcaption>Rust</figcaption>
-  </div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60" alt="golang"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" alt="javascript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="60" alt="scala"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" alt="java"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" alt="python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="60" alt="rust"/>
 </div>
 </br>
 <h3><b>Tools & Frameworks</b></h3>
 <div class="row">
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" alt="kubernetes"/>
-        <figcaption>Kubernetes</figcaption>
-  </div>
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" alt="docker"/>
-        <figcaption>Docker</figcaption>
-  </div>
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" alt="nodejs"/>
-        <figcaption>Node JS</figcaption>
-  </div> 
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="50" alt="rails"/>
-        <figcaption>Ruby on Rails</figcaption>
-  </div>  
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" alt="react"/>
-        <figcaption>ReactJS</figcaption>
-  </div>  
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" alt="git"/>
-        <figcaption>Git</figcaption>
-  </div>  
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="linux"/>
-        <figcaption>Linux</figcaption>
-  </div>  
-  <div class="column">
-        <img src="https://github.com/thejasbabu/thejasbabu/raw/main/assets/spark.svg" width="50" alt="spark"/>
-        <figcaption>Apache Spark</figcaption>
-  </div>  
-  <div class="column">
-        <img src="https://github.com/thejasbabu/thejasbabu/raw/main/assets/flink.svg" width="50" alt="spark"/>
-        <figcaption>Apache flink</figcaption>
-  </div>  
-  <div class="column">
-        <img src="https://github.com/thejasbabu/thejasbabu/raw/main/assets/prometheus.svg" width="50" alt="prometheus"/>
-        <figcaption>Prometheus</figcaption>
-  </div>  
-  <div class="column">
-        <img src="https://github.com/thejasbabu/thejasbabu/raw/main/assets/grafana.svg" width="50" alt="grafana"/>
-        <figcaption>Grafana</figcaption>
-  </div>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" alt="kubernetes"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" alt="docker"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" alt="nodejs"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="60" alt="rails"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" alt="react"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" alt="git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="linux"/>
+    <img src="https://github.com/thejasbabu/thejasbabu/raw/main/assets/spark.svg" width="75" alt="spark"/>
+    <img src="https://github.com/thejasbabu/thejasbabu/raw/main/assets/flink.svg" width="75" alt="flink"/>
+    <img src="https://github.com/thejasbabu/thejasbabu/raw/main/assets/prometheus.svg" width="75" alt="prometheus"/>
+    <img src="https://github.com/thejasbabu/thejasbabu/raw/main/assets/grafana.svg" width="60" alt="grafana"/>
 </div>
 </br>
 <h3><b>Cloud services</b></h3>
 <div class="row">
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" alt="aws"/>
-        <figcaption>AWS</figcaption>
-  </div>
-  <div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="50" alt="azure"/>
-        <figcaption>Azure</figcaption>
-  </div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="75" alt="aws"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="70" alt="azure"/>
 </div>
-
 </br>
 <h3><b>Databases</b></h3>
 <div class="row">
-<div class="column">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" alt="postgres"/>
-        <figcaption>Postgres</figcaption>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" alt="postgres"/>     
+        <img src="https://github.com/thejasbabu/thejasbabu/raw/main/assets/dynamodb.svg" width="60" alt="dynamodb"/>
 </div>
-<div class="column">
-        <img src="https://github.com/thejasbabu/thejasbabu/raw/main/assets/dynamodb.svg" width="50" alt="dynamodb"/>
-        <figcaption>AWS DynamoDB</figcaption>
-</div>
-</div>
+</br>
 
----
-
+</br>
 <h2> 🏆 Courses & Certification </h2> 
 
 <div class="row">
